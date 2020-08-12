@@ -7,8 +7,8 @@ The origin of this project stems from the COVID-19 Open Research Dataset challen
 
 ### Objective
 Within the original Kaggle challenge, there were many tasks aimed at exploring different aspects of the COVID-19 pandemic. For this project, the focus lied on:
-1- Effectiveness of case isolation/isolation of exposed individuals (i.e. quarantine)
-2- Effectiveness of community contact reduction (i.e. social distancing)
+* Effectiveness of case isolation/isolation of exposed individuals (i.e. quarantine)
+* Effectiveness of community contact reduction (i.e. social distancing)
 
 The aim was to summarize what literature posits on these two factors, by creating summary tables of the relevant papers. The official Kaggle submission was a summary table composed of 11 columns (i.e. Date, Study, Study Link, Journal, Study Type, Factors, Influential, Excerpt, Measure of Evidence, Added on DOI, CORD_UID). However, given the time limitations of this project, the team decided to focus on two of these columns, namely the Excerpt and Measure of Evidence.
 
@@ -40,5 +40,5 @@ Two Summary tables: one containing 477 entried for Effectiveness of Quarantine c
 The team effectively filtered for relevant scientific articles and used a unique methodology for extracting the columns for summary tables. The methodology that we used yielded the desired results, although there is still much room for improvement.
 
 ## Repository Resources
-1- Folder containing the forked PreSumm repo and the summarization implementation steps and results
-2- Jupyter notebook displaying the code and results for all other steps of the approach
+* Folder containing the forked PreSumm repo and the summarization implementation steps and results
+* Jupyter notebook displaying the code and results for all other steps of the approach
