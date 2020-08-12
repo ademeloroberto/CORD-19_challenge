@@ -1,5 +1,5 @@
 # CORD-19_challenge
-Text, Web and Social Media Analytics Lab project. Originally a kaggle challenge
+TWS group project: Text Mining and Summarization on COVID-19 academic articles
 
 ## About the Project
 ### Origin
